@@ -1,1 +1,1 @@
-# omnicorr-assets
+# assets
